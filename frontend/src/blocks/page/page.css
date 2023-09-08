@@ -1,0 +1,13 @@
+.page {
+  /* Базовые настройки страницы */
+  max-width: var(--max-block-width);
+  min-width: 320px;
+  min-height: 100vh;
+  position: relative;
+  margin: 0 auto;
+
+  /* Настройки отображения */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

@@ -1,0 +1,33 @@
+:root {
+  --background-color: #000;
+  --background-invert-color: #fff;
+  --font-color-dark: #000;
+  --font-color-light: #fff;
+  --accent-color: #545454;
+  --accent-error: #ff0000;
+  --max-block-width: 880px;
+  --header-logo-border-color: rgba(84, 84, 84, 0.7);
+  --header-spacer-top: 45px;
+  --profile-spacer-top: 39px;
+  --form__input-border-color: rgba(0, 0, 0, 0.2);
+  --popup_background-color: rgba(0, 0, 0, 0.5);
+  --popup_mesto_backgroud-color: rgba(0, 0, 0, 0.9);
+  --places-spacer-top: 50px;
+  --footer-spacer-top: 68px;
+}
+
+@media screen and (max-width: 918px) {
+  :root { 
+    --max-block-width: 581px;
+  }
+}
+
+@media screen and (max-width: 618px) {
+  :root { 
+    --header-spacer-top: 28px;
+    --profile-spacer-top: 42px;
+    --places-spacer-top: 36px;
+    --footer-spacer-top: 48px;
+    --max-block-width: 283px;
+  }
+}
