@@ -15,6 +15,6 @@
 
 [ссылка на репозиторий](https://github.com/GostGas6/react-mesto-api-full-gha),
 
-## IP - 158.160.45.51
+## IP - 158.160.116.137
 ## Ссылка на backend - http://gostgas6-back.nomoredomainsicu.ru/
 ## Ссылка на frontend - http://gostgas6.nomoredomainsicu.ru/
